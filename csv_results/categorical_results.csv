@@ -1,0 +1,14 @@
+variableName,unique_classes,missing_values,class_proportions
+category,18,0,csv_results/class_proportions/category_class_proportions.csv
+personName,2638,0,csv_results/class_proportions/personName_class_proportions.csv
+country,78,38,csv_results/class_proportions/country_class_proportions.csv
+city,741,72,csv_results/class_proportions/city_class_proportions.csv
+source,906,0,csv_results/class_proportions/source_class_proportions.csv
+industries,18,0,csv_results/class_proportions/industries_class_proportions.csv
+industries,18,0,csv_results/class_proportions/industries_class_proportions.csv
+countryOfCitizenship,77,0,csv_results/class_proportions/countryOfCitizenship_class_proportions.csv
+selfMade,2,0,csv_results/class_proportions/selfMade_class_proportions.csv
+status,6,0,csv_results/class_proportions/status_class_proportions.csv
+gender,2,0,csv_results/class_proportions/gender_class_proportions.csv
+lastName,1736,0,csv_results/class_proportions/lastName_class_proportions.csv
+firstName,1770,3,csv_results/class_proportions/firstName_class_proportions.csv

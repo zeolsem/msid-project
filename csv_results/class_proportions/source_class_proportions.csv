@@ -1,0 +1,907 @@
+Class,Proportion [%]
+Real estate,5.72
+Investments,3.48
+Diversified,3.45
+Pharmaceuticals,3.22
+Software,2.39
+Hedge funds,1.55
+Private equity,1.52
+Chemicals,1.48
+Retail,1.44
+Manufacturing,1.33
+Finance,0.98
+Banking,0.98
+Consumer goods,0.91
+Mining,0.8
+Telecom,0.76
+Supermarkets,0.76
+Electronics,0.72
+Auto parts,0.72
+Medical devices,0.68
+Semiconductors,0.68
+Online games,0.57
+E-commerce,0.53
+Fashion retail,0.53
+Financial services,0.53
+Steel,0.49
+Shipping,0.49
+"Hotels, investments",0.45
+Cargill,0.45
+Construction,0.42
+Luxury goods,0.42
+Insurance,0.42
+Medical equipment,0.42
+Shoes,0.42
+Agribusiness,0.42
+Batteries,0.38
+Venture capital,0.38
+Beer,0.38
+Biotech,0.38
+Healthcare,0.38
+Media,0.38
+Hotels,0.34
+Cosmetics,0.34
+Education,0.34
+Machinery,0.3
+Medical technology,0.3
+Paints,0.3
+Oil & gas,0.3
+Video games,0.3
+Building materials,0.3
+Oil,0.3
+Money management,0.3
+Hospitals,0.3
+Petrochemicals,0.3
+Beverages,0.3
+Drugstores,0.27
+Business software,0.27
+Coal,0.27
+Eyeglasses,0.27
+Sports,0.27
+Liquor,0.27
+Logistics,0.27
+Casinos,0.27
+Walmart,0.27
+Pipelines,0.27
+Food,0.27
+Fintech,0.27
+"Real estate, investments",0.27
+Cryptocurrency,0.23
+Facebook,0.23
+Software services,0.23
+Retailing,0.23
+Soy sauce,0.23
+Apparel,0.23
+Packaging,0.23
+Cheese,0.23
+"Candy, pet food",0.23
+"Food, beverages",0.19
+H&M,0.19
+Candy,0.19
+"Oil, investments",0.19
+Engineering,0.19
+"Media, automotive",0.19
+Cable television,0.19
+Technology,0.19
+Electronics components,0.19
+Furniture,0.19
+Cloud computing,0.19
+Smartphones,0.19
+Restaurants,0.19
+Energy,0.19
+Coffee,0.19
+Google,0.19
+Sports apparel,0.19
+Electrical equipment,0.19
+Conglomerate,0.19
+Publishing,0.19
+Package delivery,0.19
+Estee Lauder,0.15
+Campbell Soup,0.15
+"Banking, minerals",0.15
+"Elevators, escalators",0.15
+"Retail, real estate",0.15
+Mutual funds,0.15
+"Oil, banking, telecom",0.15
+Cement,0.15
+Gap,0.15
+"Construction, investments",0.15
+Agriculture,0.15
+Appliances,0.15
+Microsoft,0.15
+Samsung,0.15
+"Banking, investments",0.15
+Bloomberg LP,0.15
+Electronic components,0.15
+Cleaning products,0.15
+"Software, investments",0.15
+Fashion,0.15
+Flavorings,0.15
+"Fashion retail, investments",0.15
+Commodities,0.15
+"Refinery, chemicals",0.15
+Asset management,0.15
+"Retail, investments",0.15
+Automobiles,0.15
+IT provider,0.15
+Jewelry,0.15
+Adhesives,0.15
+Hedge fund,0.15
+Lego,0.15
+Fertilizer,0.15
+Car dealerships,0.15
+Online retail,0.11
+Infrastructure,0.11
+Automotive,0.11
+Stationery,0.11
+Berkshire Hathaway,0.11
+Sports teams,0.11
+Frozen foods,0.11
+Internet,0.11
+Natural gas,0.11
+Tires,0.11
+"Palm oil, property",0.11
+Convenience stores,0.11
+Meat processing,0.11
+Security software,0.11
+Art collection,0.11
+Drones,0.11
+Paper,0.11
+Airline,0.11
+Energy drinks,0.11
+"Real estate, hotels",0.11
+Snacks,0.11
+Electric vehicles,0.11
+Glass,0.11
+Wine,0.11
+Investment banking,0.11
+"Oil & gas, investments",0.11
+"Mining, commodities",0.11
+Hearing aids,0.11
+Biopharmaceuticals,0.11
+Pig breeding,0.11
+Data analytics,0.11
+Online gambling,0.11
+"Investments, real estate",0.11
+Chick-fil-A,0.11
+Kitchen appliances,0.11
+Fast food,0.11
+Payments software,0.11
+"Steel, investments",0.11
+Metals,0.11
+Pulp and paper,0.11
+Chemical products,0.11
+Cybersecurity,0.11
+Spirits,0.11
+Fidelity,0.11
+Discount brokerage,0.11
+Vaccines,0.11
+EasyJet,0.11
+Semiconductor,0.11
+Airbnb,0.11
+Footwear,0.11
+"Banking, credit cards",0.11
+"Trading, investments",0.11
+IKEA,0.11
+Transportation,0.11
+Amazon,0.08
+Specialty chemicals,0.08
+Printed circuit boards,0.08
+Pachinko machines,0.08
+Car rentals,0.08
+"Internet, telecom",0.08
+"Banking, tobacco",0.08
+Chanel,0.08
+Email marketing,0.08
+Industrial explosives,0.08
+LG,0.08
+Hygiene products,0.08
+Steel pipes,0.08
+Online gaming,0.08
+"Insurance, investments",0.08
+Pharmaceutical,0.08
+"Insurance, NFL team",0.08
+"Banking, shipping",0.08
+"Automobiles, batteries",0.08
+Energy services,0.08
+Call centers,0.08
+"Pulp and paper, diversified",0.08
+Toys,0.08
+Solar panels,0.08
+Gas stations,0.08
+"Manufacturing, investments",0.08
+Real Estate,0.08
+Internet search,0.08
+Ports,0.08
+Pet food,0.08
+"Tires, diversified",0.08
+Sensor systems,0.08
+"Textiles, apparel",0.08
+Health IT,0.08
+"Animal health, investments",0.08
+Damaged cars,0.08
+Construction equipment,0.08
+Health care,0.08
+Food distribution,0.08
+Auto loans,0.08
+Gambling,0.08
+Plastics,0.08
+Furniture retailing,0.08
+"Banking, insurance",0.08
+Data centers,0.08
+"Forestry, mining",0.08
+Aluminum products,0.08
+Home Depot,0.08
+"Energy, investments",0.08
+"Construction, media",0.08
+"Nutella, chocolates",0.08
+Internet media,0.08
+"Infrastructure, commodities",0.08
+TikTok,0.08
+Zara,0.08
+Koch Industries,0.08
+Home appliances,0.08
+Petro Fibre,0.08
+Snapchat,0.08
+"Real estate, airport",0.08
+Agrochemicals,0.08
+Pipe Manufacturing,0.08
+Biotech investing,0.08
+E-cigarettes,0.08
+Beef processing,0.08
+"Real estate, private equity",0.08
+Information technology,0.08
+Smartphone screens,0.08
+Aerospace,0.08
+Coca-Cola bottler,0.08
+Natural gas distribution,0.08
+TV shows,0.08
+"Pharmaceuticals, diversified",0.08
+"Pharmaceuticals, power",0.08
+"Casinos, hotels",0.08
+Palm oil,0.08
+Lithium,0.08
+Spotify,0.08
+Construction materials,0.08
+Laboratory services,0.08
+Shopping centers,0.08
+Convinience stores,0.08
+Carnival Cruises,0.08
+Carpet,0.08
+Motorcycles,0.08
+"Textiles, petrochemicals",0.08
+"Oil, real estate",0.08
+Entertainment,0.08
+"Casinos, mixed martial arts",0.08
+Lithium batteries,0.08
+Computer hardware,0.08
+Food processing,0.08
+"Metals, investments",0.08
+Construction Vehicles,0.08
+Battery components,0.08
+Auto dealerships,0.08
+Heating and cooling equipment,0.08
+Yahoo,0.08
+Shopping malls,0.08
+Homebuilding,0.08
+Home furnishings,0.08
+Franklin Templeton,0.08
+Estée Lauder,0.08
+Electric scooters,0.08
+U-Haul,0.08
+Automotive technology,0.08
+Flipkart,0.08
+Cruises,0.08
+"Oil, gas",0.08
+Industrial equipment,0.08
+Textiles,0.08
+"Cement, sugar",0.08
+WhatsApp,0.08
+Tobacco,0.08
+Household chemicals,0.08
+Dairy,0.08
+EBay,0.08
+Gambling products,0.08
+Machine tools,0.08
+Healthcare services,0.08
+"Consumer products, banking",0.08
+Generic drugs,0.08
+Tequila,0.08
+Gaming,0.08
+Renewable energy,0.08
+Pharmacies,0.08
+Aircraft leasing,0.08
+"Auto parts, distribution",0.08
+Investing,0.08
+Aviation,0.08
+Motors,0.08
+Packaging materials,0.08
+Online media,0.08
+Hyundai,0.08
+Uber,0.08
+Aluminum,0.08
+Two wheelers,0.08
+Tyre manufacturing machinery,0.04
+LVMH,0.04
+"Tesla, SpaceX",0.04
+Oracle,0.04
+L'Oréal,0.04
+"Beverages, pharmaceuticals",0.04
+Dell Technologies,0.04
+Nike,0.04
+BMW,0.04
+"Steel, transport",0.04
+"Gas, chemicals",0.04
+Sensors,0.04
+"Engineering, sugar",0.04
+Online apparel retail,0.04
+"Coal, investments",0.04
+"Textile, chemicals",0.04
+Fisheries,0.04
+Computer games,0.04
+Lumber,0.04
+"Music, chemicals",0.04
+Fasteners,0.04
+"BMW, pharmaceuticals",0.04
+software services,0.04
+"Fertilizers, coal",0.04
+Food & beverage retailing,0.04
+"Shapewear, cosmetics, reality TV",0.04
+Cirque du Soleil,0.04
+Hospitality,0.04
+Medical services,0.04
+Data management,0.04
+Lighting,0.04
+Stock photos,0.04
+Lithium battery,0.04
+"Property, healthcare",0.04
+"Sneakers, sportswear",0.04
+Fitness clothing,0.04
+Furniture retail,0.04
+Steel tubes,0.04
+Urban Outfitters,0.04
+Communications,0.04
+Advertising,0.04
+Starbucks,0.04
+Best Buy,0.04
+Fashion investments,0.04
+Smartphone components,0.04
+"Electric bikes, scooters",0.04
+Microchip testing,0.04
+Eyeglases,0.04
+Indianapolis Colts,0.04
+Videogames,0.04
+"Cement, diversified",0.04
+Poultry processing,0.04
+"Book distribution, transportation",0.04
+Mobile phone retailer,0.04
+Imaging systems,0.04
+"Hotels, motels",0.04
+Marvel comics,0.04
+"Banking, real estate",0.04
+Movies,0.04
+Oil trading,0.04
+Valves,0.04
+"Insurance, beverages",0.04
+Coffee makers,0.04
+Optometry,0.04
+Paint,0.04
+Food service,0.04
+"Tobacco distribution, retail",0.04
+"Billboards, Los Angeles Angels",0.04
+Train cars,0.04
+"Construction equipment, media",0.04
+Subway,0.04
+Battery separators,0.04
+"Construction, pipes, banking",0.04
+Winter jackets,0.04
+Virgin,0.04
+Diamond jewelry,0.04
+"Johnson & Johnson, sports",0.04
+Web hosting,0.04
+TD Ameritrade,0.04
+Zoom Video Communications,0.04
+Little Caesars Pizza,0.04
+Solar inverters,0.04
+Navigation equipment,0.04
+"Groupon, investments",0.04
+In-N-Out Burger,0.04
+"Facebook, investments",0.04
+Food services,0.04
+Infant formula,0.04
+Defense,0.04
+Staffing & recruiting,0.04
+Biochemicals,0.04
+Philadelphia Eagles,0.04
+Investment research,0.04
+Home-cleaning robots,0.04
+Titanium,0.04
+Trucking,0.04
+Skincare,0.04
+"Oil, coal, real estate",0.04
+FedEx,0.04
+"Heating, cooling equipment",0.04
+Acoustic components,0.04
+"Chemicals, spandex",0.04
+"Biotech, vaccines",0.04
+"Computer services, real estate",0.04
+Payroll services,0.04
+"Palm oil, nickel mining",0.04
+Washington Commanders,0.04
+Sports retailing,0.04
+"Gas stations, retail",0.04
+New Orleans Saints,0.04
+Hair dryers,0.04
+"Aluminum, diversified",0.04
+Sporting goods,0.04
+Star Wars,0.04
+"Energy, sports",0.04
+Biotechnology,0.04
+Dental implants,0.04
+Lululemon,0.04
+New Balance,0.04
+Dolby Laboratories,0.04
+"Logistics, real estate",0.04
+Department stores,0.04
+Investment,0.04
+"Shipping, seafood",0.04
+San Francisco 49ers,0.04
+Biotech and investments,0.04
+Trading,0.04
+Online services,0.04
+"Scaffolding, cement mixers",0.04
+Quartz products,0.04
+Surveillance equipment,0.04
+Movie making,0.04
+"Casinos, real estate",0.04
+Finance and investments,0.04
+"Supermarkets, investments",0.04
+Satellite TV,0.04
+Live entertainment,0.04
+Consumer products,0.04
+"TV network, investments",0.04
+Chewing gum,0.04
+"Casinos, property, energy",0.04
+Sensor technology,0.04
+"Walmart, logistics",0.04
+Drug distribution,0.04
+Used cars,0.04
+Solar panel materials,0.04
+Automotive brakes,0.04
+Mobile phones,0.04
+"Netscape, investments",0.04
+"Hair products, tequila",0.04
+Formula One,0.04
+"Defense, hotels",0.04
+Netflix,0.04
+Chemical industry,0.04
+Readymade garments,0.04
+Stock brokerage,0.04
+"Nutrition, wellness products",0.04
+"Art, car dealerships",0.04
+Hair care products,0.04
+"Copper, education",0.04
+Vodka,0.04
+"Online media, Dallas Mavericks",0.04
+"Twitter, Square",0.04
+Cars,0.04
+Ticketing service,0.04
+"Transport, engineering, real estate",0.04
+Electronic trading,0.04
+Digital advertising,0.04
+Technology services,0.04
+Printing,0.04
+"Movies, investments",0.04
+"Mining, banking, hotels",0.04
+Fish farming,0.04
+Beef packing,0.04
+"Magazines, media",0.04
+Airport management,0.04
+Mortgage lender,0.04
+Pest control,0.04
+"Finance, asset management",0.04
+Poultry genetics,0.04
+Real estate management,0.04
+"Telecoms, media, oil-services",0.04
+"Plush toys, real estate",0.04
+"Copy machines, software",0.04
+"Steel, coal",0.04
+Record label,0.04
+Pharmaceutical ingredients,0.04
+Gambling software,0.04
+Payment software,0.04
+"Timberland, lumber mills",0.04
+Toyota dealerships,0.04
+Medical packaging,0.04
+Video streaming,0.04
+"Metals, coal",0.04
+"Metals, mining",0.04
+"Mining, steel",0.04
+"Banking, insurance, media",0.04
+3D printing,0.04
+Scientific equipment,0.04
+Nutritional supplements,0.04
+"Hotels, energy",0.04
+"Steel, mining",0.04
+"Real estate, retail",0.04
+Video streaming app,0.04
+"Aluminum, utilities",0.04
+Plastic pipes,0.04
+Music,0.04
+Paper & related products,0.04
+"Construction, mining",0.04
+Solar equipment,0.04
+Metalworking tools,0.04
+"Beer, investments",0.04
+Temp agency,0.04
+Power strips,0.04
+Power strip,0.04
+"Telecom, oil",0.04
+Slim-Fast,0.04
+"Engineering, construction",0.04
+Tech investments,0.04
+Intel,0.04
+Solar panel components,0.04
+"Snacks, beverages",0.04
+"Staffing, Baltimore Ravens",0.04
+Biomedical products,0.04
+Airport,0.04
+Bakeries,0.04
+Travel,0.04
+"Chemicals, investments",0.04
+Prosthetics,0.04
+Payroll software,0.04
+Liquefied natural gas,0.04
+"Brakes, investments",0.04
+"Homebuilding, insurance",0.04
+"Real estate, grains",0.04
+Measuring instruments,0.04
+Computer networking,0.04
+Chicken processing,0.04
+Pearlescent pigments,0.04
+"Construction, mining machinery",0.04
+Dental materials,0.04
+"Dole, real estate",0.04
+"Movies, record labels",0.04
+Photovoltaic equipment,0.04
+"Mining, metals, machinery",0.04
+Personal care goods,0.04
+Healthcare software,0.04
+Self storage,0.04
+Mapping software,0.04
+"Media, investments",0.04
+Herbal products,0.04
+Valve manufacturing,0.04
+Hand tools,0.04
+"Real estate, media",0.04
+Columbia Sportswear,0.04
+Online retailing,0.04
+"Agriculture, land",0.04
+"Coffee, shipping",0.04
+Tractors,0.04
+Steel production,0.04
+"Online games, investments",0.04
+Auto repair,0.04
+Bakery chain,0.04
+Cobalt,0.04
+"Auto dealers, investments",0.04
+"Steel pipes, diversified",0.04
+Education technology,0.04
+Fast fashion,0.04
+Medical cosmetics,0.04
+Two-wheelers,0.04
+Dick's Sporting Goods,0.04
+Edible oil,0.04
+Greek yogurt,0.04
+Getty Oil,0.04
+"Space, energy",0.04
+Clinical trials,0.04
+Payment processing,0.04
+Accounting services,0.04
+Power supply equipment,0.04
+Snack bars,0.04
+"Metals, banking, fertilizers",0.04
+"Manufacturing, investment",0.04
+Payroll processing,0.04
+"Venture capital, Google",0.04
+Budget airline,0.04
+Coca-Cola Israel,0.04
+"Casinos, banking",0.04
+Internet service provider,0.04
+Oil refining,0.04
+Precision machinery,0.04
+"Oil, mining",0.04
+"Retail, agribusiness",0.04
+Poultry,0.04
+SAP,0.04
+Sunglasses,0.04
+WeWork,0.04
+Airlines,0.04
+Coal mines,0.04
+Metals and mining,0.04
+"Real estate, construction",0.04
+Financial information,0.04
+TV broadcasting,0.04
+Defense Contracting,0.04
+Touch screens,0.04
+Solar energy equipment,0.04
+Ecommerce,0.04
+"EBay, PayPal",0.04
+"Soft drinks, fast food",0.04
+Solar wafers and modules,0.04
+Diamonds,0.04
+Sporting goods retail,0.04
+"Houston Rockets, entertainment",0.04
+"Oil and gas, IT, lotteries",0.04
+Dental products,0.04
+"Energy, real estate",0.04
+Power equipment,0.04
+Food delivery,0.04
+Vacuums,0.04
+Hardware stores,0.04
+Alcoholic beverages,0.04
+Hydraulic machinery,0.04
+Metal processing,0.04
+Online dating,0.04
+Security,0.04
+"Energy, chemicals",0.04
+Low-cost airlines,0.04
+Silicon,0.04
+Amusement parks,0.04
+"Charlotte Hornets, endorsements",0.04
+Art,0.04
+Leveraged buyouts,0.04
+"Media, real estate",0.04
+Chemical,0.04
+Dairy & consumer products,0.04
+Blockchain technology,0.04
+Twitter,0.04
+cosmetics,0.04
+Home sales,0.04
+Apple,0.04
+TV programs,0.04
+"Nascar, racing",0.04
+Salsa,0.04
+Golden State Warriors,0.04
+"Blockchain, technology",0.04
+Medical patents,0.04
+"Homebuilding, NFL team",0.04
+Photovoltaics,0.04
+Oil and gas,0.04
+"Chemicals, logistics",0.04
+"Precious metals, real estate",0.04
+"Oil, banking",0.04
+"Hotels, diversified",0.04
+Sports team,0.04
+Communication equipment,0.04
+Las Vegas Raiders,0.04
+"Airports, investments",0.04
+LinkedIn,0.04
+Storage facilities,0.04
+Sears,0.04
+Price comparison website,0.04
+Jewellery,0.04
+"Oil, semiconductor",0.04
+"Logistics, baseball",0.04
+"Transport, logistics",0.04
+"Commodities, investments",0.04
+"Telecommunication, sports",0.04
+"Executive search, investments",0.04
+DirecTV,0.04
+Non-ferrous metals,0.04
+Real estate development,0.04
+Real estate services,0.04
+Bars,0.04
+Coking,0.04
+"Telecom, investments",0.04
+Financial technology,0.04
+"Engineering, automotive",0.04
+Hardware,0.04
+Medical products,0.04
+Sandwich chain,0.04
+Iron ore mining,0.04
+Virtual reality,0.04
+Wedding dresses,0.04
+Comcast,0.04
+Waffle House,0.04
+Homebuilder,0.04
+Tennessee Titans,0.04
+Venture capital investing,0.04
+Shipbuilding,0.04
+Energy drink,0.04
+"FIAT, investments",0.04
+"Motorhomes, RVs",0.04
+Real estate finance,0.04
+Express delivery,0.04
+"Biotech, investments",0.04
+energy drinks,0.04
+Alcohol,0.04
+"Batteries, investments",0.04
+Pharmaceutical services,0.04
+"TV, movie production",0.04
+Fitness equipment,0.04
+Roku,0.04
+"Manufacturing, New England Patriots",0.04
+Gold,0.04
+Cryptocurrency exchange,0.04
+"Banks, real estate",0.04
+"Banking, property",0.04
+Hermes,0.04
+Fertilizers,0.04
+Warehouse automation,0.04
+"Sports, real estate",0.04
+"Apple, Disney",0.04
+"Palm oil, shipping, property",0.04
+Messaging app,0.04
+"Fertilizer, real estate",0.04
+Video surveillance,0.04
+"Energy, sports, entertainment",0.04
+"Retail, media",0.04
+"Retail, wholesale",0.04
+Semiconductor devices,0.04
+Mobile payments,0.04
+Oil refinery,0.04
+Electric power,0.04
+"Steel, autoparts",0.04
+Dallas Cowboys,0.04
+"Oil & gas, banking",0.04
+Social media,0.04
+retail,0.04
+"Airports, real estate",0.04
+"Liquor stores, supermarkets",0.04
+"Utilities, real estate",0.04
+Instagram,0.04
+Feed,0.04
+Healthcare IT,0.04
+Stainless steel products,0.04
+Optical components,0.04
+"Utilities, diversified",0.04
+Fine jewelry,0.04
+"Sugar, ethanol",0.04
+Toll roads,0.04
+Sports drink,0.04
+Beer distribution,0.04
+"Finance, real estate",0.04
+Electrodes,0.04
+IT consulting,0.04
+Retail stores,0.04
+Consumer electronics,0.04
+"Movies, digital effects",0.04
+Phamaceuticals,0.04
+Lithium-ion battery cap,0.04
+Materials,0.04
+electronics,0.04
+Waste disposal,0.04
+"Petroleum, diversified",0.04
+Gym equipment,0.04
+"Banking, oil",0.04
+"Energy, banking, construction",0.04
+"Shipping, airlines",0.04
+"Steel, telecom, investments",0.04
+Casinos/hotels,0.04
+Building supplies,0.04
+Fashion retailer,0.04
+Powdered metal,0.04
+"Cable TV, investments",0.04
+Cooking appliances,0.04
+Clinical diagnostics,0.04
+Home improvement stores,0.04
+"Newspapers, TV network",0.04
+"Aldi, Trader Joe's",0.04
+"Finance, telecommunications",0.04
+medical devices,0.04
+Wireless networking,0.04
+"Alcohol, real estate",0.04
+Heineken,0.04
+Beauty products,0.04
+Restaurant,0.04
+"Textiles, paper",0.04
+Cloud storage service,0.04
+"Mining, copper products",0.04
+"Real estate, shipping",0.04
+"Batteries, automobiles",0.04
+Quicken Loans,0.04
+Contact Lens,0.04
+"Investments, art",0.04
+Brewery,0.04
+Solar,0.04
+"Real estate, manufacturing",0.04
+Nickel,0.04
+AOL,0.04
+Testing equipment,0.04
+"Investments, energy",0.04
+Defense contractor,0.04
+"Video games, pachinko",0.04
+"Food, retail",0.04
+"Gold, coal mining",0.04
+Health products,0.04
+Online recruitment,0.04
+Semiconductor materials,0.04
+"Real estate, gambling",0.04
+Software firm,0.04
+"Payments, banking",0.04
+"Genentech, Apple",0.04
+Seed production,0.04
+"Steel, diversified",0.04
+Petro Firbe,0.04
+Finance services,0.04
+"Banking, development",0.04
+"Pharmaceuticals, food",0.04
+Messaging software,0.04
+"Real estate, electronics",0.04
+Minerals processing,0.04
+Power tools,0.04
+Cell phone distribution,0.04
+Online payments,0.04
+Medical diagnostic equipment,0.04
+"Energy drinks,investments",0.04
+Tire,0.04
+"Music, cosmetics",0.04
+"Construction, pipes, chemicals",0.04
+Fiber optic cables,0.04
+Carbon fiber products,0.04
+Industrial machinery,0.04
+"Movies, television",0.04
+"Media, tech",0.04
+"IT consulting, outsourcing",0.04
+"Metals, telecom",0.04
+"Finance, development",0.04
+Hot sauce,0.04
+Health clinics,0.04
+Red Bull,0.04
+"Construction, real estate",0.04
+Flooring,0.04
+Telecommunication,0.04
+Internet and software,0.04
+"Tires, retail",0.04
+"Real estate, diversified",0.04
+Grocery delivery service,0.04
+Hydraulic pumps,0.04
+Solar energy,0.04
+Poultry breeding,0.04
+Reebok,0.04
+Mattresses,0.04
+"Building, development",0.04
+Waste management,0.04
+Sports data,0.04
+Medical diagnostics,0.04
+Pneumatic equipments,0.04
+Coca Cola Israel,0.04
+Pharmacy,0.04
+Paper manufacturing,0.04
+Sports shoes,0.04
+Spanx,0.04
+E-commerce software,0.04
+Air compressors,0.04
+Online universities,0.04
+Cables & wires,0.04
+Basketball,0.04
+Grocery stores,0.04
+Tiles,0.04
+"Banking, sports team",0.04
+Power,0.04
+LED lighting,0.04
+"Entertainment, Margaritaville",0.04
+Online entertainment,0.04
+Polyester,0.04
+Electrical appliances,0.04
+"Financial services, property",0.04
+Office real estate,0.04
+Industrial lasers,0.04
+Bio-Pharma,0.04
+Search engine,0.04
+Golf,0.04
+Consumer,0.04
+Vitamins,0.04
+Cable,0.04
+"Tourism, cultural industry",0.04
+Aluminium,0.04
+"Mining, banking",0.04
+Under Armour,0.04
+Security services,0.04
+Pinterest,0.04
+Solar systems,0.04
+Stock exchange,0.04
+Oilfield equipment,0.04
+gaming,0.04
+"Wire & cables, paints",0.04

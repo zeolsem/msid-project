@@ -1,0 +1,742 @@
+Class,Proportion [%]
+New York,3.86
+Hong Kong,2.65
+Beijing,2.65
+Shanghai,2.49
+London,2.38
+Moscow,2.34
+Mumbai,2.18
+Shenzhen,2.1
+Singapore,1.75
+San Francisco,1.44
+Delhi,1.44
+Hangzhou,1.32
+Los Angeles,1.32
+Taipei,1.17
+Guangzhou,1.09
+Bangkok,1.09
+Seoul,1.05
+Milan,0.93
+Tokyo,0.93
+Istanbul,0.86
+Stockholm,0.82
+Paris,0.82
+Palm Beach,0.82
+Dallas,0.78
+Ningbo,0.78
+Jakarta,0.7
+Bangalore,0.66
+Sao Paulo,0.66
+Atlanta,0.62
+Tel Aviv,0.58
+Palo Alto,0.58
+Chengdu,0.58
+Melbourne,0.58
+Sydney,0.55
+Changsha,0.55
+Houston,0.55
+Chicago,0.55
+Dubai,0.55
+Madrid,0.51
+Manila,0.51
+Munich,0.47
+Austin,0.47
+Xiamen,0.43
+Atherton,0.43
+Mexico City,0.43
+Montreal,0.43
+Beverly Hills,0.43
+Toronto,0.43
+Las Vegas,0.43
+Geneva,0.43
+Hamburg,0.39
+Miami,0.39
+Rio de Janeiro,0.39
+Boston,0.39
+Ningde,0.35
+Zurich,0.35
+Monaco,0.35
+Greenwich,0.35
+Suzhou,0.31
+Chennai,0.31
+Miami Beach,0.31
+Fort Worth,0.31
+Foshan,0.31
+Hyderabad,0.31
+Melsungen,0.31
+Ahmedabad,0.31
+Quanzhou,0.27
+Hefei,0.27
+Naples,0.27
+Berlin,0.27
+Prague,0.27
+Pune,0.27
+Nanjing,0.27
+Helsinki,0.23
+Lugano,0.23
+St. Louis,0.23
+Oslo,0.23
+Vienna,0.23
+Delray Beach,0.23
+Kuala Lumpur,0.23
+Santiago,0.23
+Almaty,0.23
+Changzhou,0.23
+Lianyungang,0.23
+Monte Carlo,0.23
+Seattle,0.23
+Zug,0.23
+Wuxi,0.23
+Denver,0.19
+Dongguan,0.19
+Los Altos,0.19
+Wuhan,0.19
+Vancouver,0.19
+Gstaad,0.19
+Woodside,0.19
+Perth,0.19
+Rome,0.19
+Amsterdam,0.19
+Phoenix,0.19
+Saint Petersburg,0.19
+Wenzhou,0.16
+Jackson,0.16
+San Antonio,0.16
+Cairo,0.16
+Medina,0.16
+Brisbane,0.16
+Kiev,0.16
+Billund,0.16
+Tampa,0.16
+Shangyu,0.16
+Surabaya,0.16
+Jiaxing,0.16
+Los Altos Hills,0.16
+Paradise Valley,0.16
+Kazan,0.16
+São Paulo,0.16
+Newport Beach,0.16
+Franklin,0.16
+Buenos Aires,0.16
+Fuzhou,0.16
+Cleveland,0.16
+Provo,0.12
+Hanoi,0.12
+Grand Rapids,0.12
+Brookline,0.12
+Heidelberg,0.12
+Marseille,0.12
+Philadelphia,0.12
+Laval,0.12
+Nashville,0.12
+Shaoxing,0.12
+Nantong,0.12
+Ottawa,0.12
+Cary,0.12
+Oklahoma City,0.12
+Osaka,0.12
+Treviso,0.12
+Portola Valley,0.12
+Lyon,0.12
+Dublin,0.12
+Laguna Beach,0.12
+McLean,0.12
+Bielefeld,0.12
+Valencia,0.12
+Highland Park,0.12
+Chongqing,0.12
+Lucerne,0.12
+Racine,0.12
+Lagos,0.12
+Rondonopolis,0.12
+Tianjin,0.12
+Boca Raton,0.12
+Kolkata,0.12
+Shantou,0.12
+Irvine,0.12
+Hobe Sound,0.12
+Zhengzhou,0.12
+Berkeley,0.12
+Langfang,0.12
+Reno,0.12
+Ankara,0.12
+Yantai,0.12
+Ho Chi Minh City,0.12
+Basel,0.12
+Henderson,0.08
+Xi'an,0.08
+Springfield,0.08
+Johannesburg,0.08
+Nanyang,0.08
+Milton,0.08
+Kudus,0.08
+Rheda-Wiedenbrück,0.08
+Aspen,0.08
+Tongxiang,0.08
+Winnetka,0.08
+Herzogenaurach,0.08
+Casablanca,0.08
+Suqian,0.08
+Marburg,0.08
+Bratislava,0.08
+Bacau,0.08
+Nagpur,0.08
+Jinjiang,0.08
+Taoyuan,0.08
+Cisco,0.08
+Fisher Island,0.08
+Weifang,0.08
+Zhongshan,0.08
+Coral Gables,0.08
+Tegernsee,0.08
+San Diego,0.08
+Battenberg,0.08
+Linhai,0.08
+Oyster Bay,0.08
+Hunts Point,0.08
+Midland,0.08
+Bentonville,0.08
+La Coruna,0.08
+Yokohama City,0.08
+Jiaozuo,0.08
+Tainan,0.08
+Wujiang,0.08
+Bergamo,0.08
+Barcelona,0.08
+Nantes,0.08
+Bal Harbour,0.08
+North Palm Beach,0.08
+Missoula,0.08
+Darien,0.08
+Beirut,0.08
+Ulm,0.08
+Potomac,0.08
+Venice,0.08
+Bloomfield Hills,0.08
+Grand Cayman,0.08
+Saint John,0.08
+Fort Lauderdale,0.08
+Westmount,0.08
+Weihai,0.08
+Menlo Park,0.08
+Limassol,0.08
+Chestnut Hill,0.08
+Doha,0.08
+Kunming,0.08
+Athens,0.08
+Wilen bei Wollerau,0.08
+Stoke-on-Trent,0.08
+Gladwyne,0.08
+Lexington,0.08
+Malibu,0.08
+Hsinchu,0.08
+Hattiesburg,0.08
+Chevy Chase,0.08
+Clearwater,0.08
+Urumqi,0.08
+Gold Coast,0.08
+Gloucestershire,0.08
+Pleasanton,0.08
+Tonghua,0.08
+Lima,0.08
+Windsor,0.08
+Dusseldorf,0.08
+Bryn Mawr,0.08
+Herzliya,0.08
+Cape Town,0.08
+Tulsa,0.08
+Electra,0.08
+Yinchuan,0.08
+Qingdao,0.08
+St. Petersburg,0.08
+Birmingham,0.08
+Bethesda,0.08
+Taichung,0.08
+Hillsborough,0.08
+Kobe,0.08
+Lake Forest,0.08
+Abu Dhabi,0.08
+Wilson,0.08
+Newton,0.08
+Knoxville,0.08
+Charleston,0.08
+Yuxi,0.08
+Fayetteville,0.08
+Omaha,0.08
+Makati,0.04
+Lanai,0.04
+Wichita,0.04
+Hillsboro,0.04
+Neckarsulm,0.04
+Schindellegi,0.04
+Brussels,0.04
+The Plains,0.04
+Salzburg,0.04
+St. Wendel,0.04
+Quzhou,0.04
+Cardiff,0.04
+Palma de Majorca,0.04
+Rottendorf,0.04
+Tervuren,0.04
+Matadepera,0.04
+Chattanooga,0.04
+Kemerovo,0.04
+Lutherville-Timonium,0.04
+Gallatin,0.04
+"London, Suffolk",0.04
+Selangor,0.04
+Starnberg,0.04
+Luohe,0.04
+Karlstad,0.04
+Jupiter Island,0.04
+Detmold,0.04
+Kaohsiung,0.04
+Leping,0.04
+Bad Homburg,0.04
+Ras Al Khaimah,0.04
+Frankfurt,0.04
+Indian Creek,0.04
+Hisar,0.04
+Potsdam,0.04
+Shunde,0.04
+Belvedere,0.04
+Jinan,0.04
+Jaipur,0.04
+Nyack,0.04
+Sant'' Elpidio A Mare,0.04
+Surat,0.04
+Kuenzelsau,0.04
+Haverford,0.04
+East Setauket,0.04
+Dezhou,0.04
+Fuxin,0.04
+Cieszyn,0.04
+Laizhou,0.04
+Ruzhou,0.04
+Cuiaba,0.04
+Chelyabinsk,0.04
+Wuhu,0.04
+Meishan,0.04
+Hengshui,0.04
+Baroda,0.04
+Mevaseret Zion,0.04
+Monkton,0.04
+Segrate,0.04
+Locust Valley,0.04
+Aurangabad,0.04
+Isle of Man,0.04
+Oak Brook,0.04
+Vettre,0.04
+Youngstown,0.04
+Lille,0.04
+San Anselmo,0.04
+Mainz,0.04
+Tbilisi,0.04
+Carmel,0.04
+Bozeman,0.04
+Steamboat Springs,0.04
+Shijiazhuang,0.04
+Passau,0.04
+Visbek,0.04
+Changshu,0.04
+Islamorada,0.04
+Petaling Jaya,0.04
+Salt Lake City,0.04
+Pacific Palisades,0.04
+Konstancin,0.04
+Bruchsal,0.04
+Livingston,0.04
+Birchwood,0.04
+George Town,0.04
+Glencoe,0.04
+Glendora,0.04
+Plantation,0.04
+Kirkkonummi,0.04
+Putian,0.04
+East Aurora,0.04
+Coatesville,0.04
+Weiningen,0.04
+Haridwar,0.04
+Necker Island,0.04
+Scottsdale,0.04
+Little Jackson Hole,0.04
+Indianapolis,0.04
+Stuttgart,0.04
+Santa Clara,0.04
+Montpellier,0.04
+Luxembourg,0.04
+Xian,0.04
+Davos,0.04
+Lower-Saxony,0.04
+Como,0.04
+Northeim,0.04
+Eindhoven,0.04
+Yekaterinburg,0.04
+Kyoto,0.04
+Netanya,0.04
+Florence,0.04
+Anzere,0.04
+Short Hills,0.04
+New York City,0.04
+Cernusco Lombardone,0.04
+Muttontown,0.04
+Binningen,0.04
+Hertfordshire,0.04
+"Krotoszyn,",0.04
+Koenigstein,0.04
+Virginia Beach,0.04
+Westlake,0.04
+Coconut Grove,0.04
+Merseyside,0.04
+Kanton Schwyz,0.04
+Providence,0.04
+Bassano del Grappa,0.04
+Idaho Falls,0.04
+Jeju-do,0.04
+The Woodlands,0.04
+Luancheng,0.04
+St. John,0.04
+Wiesloch,0.04
+Daye,0.04
+Fuqing,0.04
+Stoke-On-Trent,0.04
+Wilen,0.04
+Newbury Park,0.04
+Santa Cruz,0.04
+Sao Jose dos Pinhais,0.04
+torino,0.04
+Krasnodar,0.04
+Brusque,0.04
+Xinyu,0.04
+Bremen,0.04
+Bologna,0.04
+Little Rock,0.04
+Fort Collins,0.04
+Brownsville,0.04
+Küsnacht,0.04
+Oakville,0.04
+Sag Harbor,0.04
+Hokkaido,0.04
+Larchmont,0.04
+Ponzano Veneto,0.04
+Solomeo,0.04
+Redding,0.04
+Modena,0.04
+East Hampton,0.04
+Southampton,0.04
+Cochin,0.04
+Xinxiang,0.04
+Phnom Penh,0.04
+San Marcos,0.04
+Albany,0.04
+New Albany,0.04
+Humlebaek,0.04
+Donetsk,0.04
+Jona,0.04
+Sands Point,0.04
+Branford,0.04
+Palisades,0.04
+Luzerne,0.04
+Ohningen,0.04
+Leipzig,0.04
+Jiangyin,0.04
+Crans Montana,0.04
+Gothenberg,0.04
+Bogota,0.04
+Kielce,0.04
+Zhuji,0.04
+Tempe,0.04
+Brunswick,0.04
+Grimisuat,0.04
+Göteborg,0.04
+Taixing,0.04
+Greensboro,0.04
+Sarasota,0.04
+Yanzhou,0.04
+Burgdorf,0.04
+Marbella,0.04
+Zhangjiagang,0.04
+Neustadt an der Waldnaab,0.04
+Montecito,0.04
+Shenyang,0.04
+Espelkamp,0.04
+Nicasio,0.04
+Tarrytown,0.04
+Springdale,0.04
+Scarborough,0.04
+Weston,0.04
+Paralimni,0.04
+Curitiba,0.04
+Graz,0.04
+Pittsburgh,0.04
+Nur-Sultan,0.04
+Kverva,0.04
+Danyang,0.04
+Rheinfelden,0.04
+Lake Worth,0.04
+Vorden,0.04
+Duderstadt,0.04
+Temple,0.04
+Yingkou,0.04
+Muscat,0.04
+Esporles,0.04
+Belle Vernon,0.04
+Gräfelfing,0.04
+Gothenburg,0.04
+Mankato,0.04
+Fiesole,0.04
+Feldmeilen,0.04
+Katonah,0.04
+Rolling Hills,0.04
+Hampton,0.04
+Newport Coast,0.04
+Ezulwini,0.04
+Vaduz,0.04
+Lausanne,0.04
+Redlands,0.04
+Port Washington,0.04
+Huizhou,0.04
+Lighthouse Point,0.04
+Portage,0.04
+Millburn,0.04
+Scarsdale,0.04
+Ventura,0.04
+Manaus,0.04
+Hurden,0.04
+Saratoga,0.04
+Zhaoyuan,0.04
+Rechterfeld,0.04
+Aarhus,0.04
+Madison,0.04
+North York,0.04
+Bristol,0.04
+Taizhou,0.04
+foshan,0.04
+Marin County,0.04
+Portland,0.04
+St. Peter Port,0.04
+Brookville,0.04
+Turks and Caicos Islands,0.04
+Rhinebeck,0.04
+Jupiter,0.04
+Linyi,0.04
+Park City,0.04
+Sioux Falls,0.04
+Warsaw,0.04
+Darmstadt,0.04
+Durham,0.04
+Easton,0.04
+Paphos,0.04
+Gurgaon,0.04
+Kingscourt,0.04
+Sewickley,0.04
+Krefeld,0.04
+Norwich,0.04
+El Cerrito,0.04
+Aventura,0.04
+East Lyme,0.04
+Grants Pass,0.04
+Montabaur,0.04
+Surfers Paradise,0.04
+El Paso,0.04
+Huzhou,0.04
+Paradise Island,0.04
+Ormond Beach,0.04
+Nanping,0.04
+Weinheim,0.04
+Grebenhain,0.04
+San Juan Islands,0.04
+Liuan,0.04
+Edmond,0.04
+Thurgau,0.04
+Verbier,0.04
+Saddle River,0.04
+Santa Barbara,0.04
+Adel,0.04
+Manantiales,0.04
+Kathmandu,0.04
+Cupertino,0.04
+Surrey,0.04
+Newmarket,0.04
+Moscow region,0.04
+Honolulu,0.04
+Auckland,0.04
+St. Gallen,0.04
+New South Wales,0.04
+Binzhou,0.04
+Wollerau,0.04
+Jinhua,0.04
+Santa Monica,0.04
+Indian Hills,0.04
+Monsey,0.04
+"St. Brelade, Jersey",0.04
+Alpine,0.04
+Fukuoka,0.04
+Bucharest,0.04
+Ypsilanti,0.04
+Chaozhou,0.04
+Irkutsk,0.04
+Old Lyme,0.04
+North Salem,0.04
+Zhuhai,0.04
+Landshut,0.04
+Aberdeen,0.04
+Zhuzhou,0.04
+Kitzbuhel,0.04
+Straelen,0.04
+Jiujiang,0.04
+Boucherville,0.04
+Montagnola,0.04
+St. Paul,0.04
+Lanzhou,0.04
+Key Largo,0.04
+Bayannur,0.04
+Princeton,0.04
+Chiba,0.04
+Sao Luis,0.04
+Rostov-on-Don,0.04
+Yunlin,0.04
+Allendorf,0.04
+Cremona,0.04
+Gorinchem,0.04
+Annapolis,0.04
+Turin,0.04
+Porto Alegre,0.04
+La Jolla,0.04
+"Tawau, Sabah",0.04
+Blaricum,0.04
+Daytona Beach,0.04
+Changchun,0.04
+Peyia,0.04
+Stanford,0.04
+Panzhihua,0.04
+Gaildorf,0.04
+Yixing,0.04
+Xingtai,0.04
+Alexandria,0.04
+Elizabeth,0.04
+Ruschlikon,0.04
+Leshan,0.04
+Wellington,0.04
+Schwieberdingen,0.04
+Kunshan,0.04
+Liberty,0.04
+Pujols,0.04
+Bloomington,0.04
+Incline Village,0.04
+Magnitogorsk,0.04
+Martigny,0.04
+Haiger,0.04
+Keene,0.04
+Yorktown Heights,0.04
+Liaocheng,0.04
+Cesena,0.04
+Herzliya Pituach,0.04
+Campodoro,0.04
+Redwood City,0.04
+Budapest,0.04
+Dar es Salaam,0.04
+Manalapan,0.04
+Wien,0.04
+Nottinghamshire,0.04
+Yangzhou,0.04
+Wels,0.04
+Cincinnati,0.04
+Logan,0.04
+Xianyang,0.04
+San Jose,0.04
+Baoding,0.04
+Tashkent,0.04
+Afton,0.04
+Frauenfeld,0.04
+Saitama,0.04
+Joinville,0.04
+Paoli,0.04
+Helsingborg,0.04
+Wotton-under-Edge,0.04
+Vadodara,0.04
+Audubon,0.04
+Santo Andre,0.04
+Eau Claire,0.04
+Crans-Montana,0.04
+Mulheim an der Ruhr,0.04
+Sagaponack,0.04
+Aberdyfi,0.04
+Surgut,0.04
+Ludhiana,0.04
+Kearney,0.04
+Xuancheng,0.04
+Burlington,0.04
+Chifeng,0.04
+Spilamberto,0.04
+Crocetta del Montello,0.04
+Manama,0.04
+Tolleson,0.04
+Bedford,0.04
+Windermere,0.04
+Kfar Shmaryahu,0.04
+Canberra,0.04
+Dnipro,0.04
+Lens,0.04
+Lipperswil,0.04
+Yunfu,0.04
+Taicang,0.04
+Pottsville,0.04
+Gaomi,0.04
+Yongzhou,0.04
+Erevan,0.04
+Zhangzhou,0.04
+Urumchi,0.04
+Jacksonville,0.04
+Bnei Atarot,0.04
+Chang Hwa County,0.04
+Huaibei city,0.04
+Rochester,0.04
+Minnetonka,0.04
+Lower Merion,0.04
+Murmansk,0.04
+Abbeville,0.04
+Mount Kisco,0.04
+Deinze,0.04
+Tombolo,0.04
+Baarn,0.04
+Bnei Brak,0.04
+Hidden Hills,0.04
+Iphofen,0.04
+Boulder,0.04
+Plymouth,0.04
+Orono,0.04
+Englewood,0.04
+Felcsút,0.04
+A Coruña,0.04
+Bingham Farms,0.04
+Edmonton,0.04
+Verkhniaya Pyshma,0.04
+Rancho Santa Fe,0.04
+Erie,0.04
+Burlingame,0.04
+Leawood,0.04
+Algiers,0.04
+Memphis,0.04
+Walldorf,0.04
+Trondheim,0.04
+Cockeysville,0.04
+Liestal,0.04
+Wynnewood,0.04
+Zermatt,0.04
+Arcadia,0.04
+"Nakano, Tokyo",0.04
+Grijo,0.04
+New Orleans,0.04
+Sao paulo,0.04
+Croton-on-Hudson,0.04
+Longkou,0.04
+Fushun,0.04
+Kochi,0.04
+San Carlos,0.04
+Copenhagen,0.04
+Beit Yanay,0.04
+Stellenbosch,0.04
+Landsberg am Lech,0.04
+Landsberg,0.04
+Reggio Emilia,0.04
