@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ### Getting the dataset
 Here you can download the dataset:  
-[Billionaire Statistics Dataset on Kaggle](https://www.kaggle.com/datasets/hopesb/student-depression-dataset?select=Student+Depression+Dataset.csv)  
+[Billionaire Statistics Dataset on Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset)  
 If you want everything to work out of the box, when you download it rename it to billionaire_statistics_dataset.csv
 
 ### Running
