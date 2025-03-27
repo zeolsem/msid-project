@@ -1,3 +1,7 @@
+"""
+Saves statistical variables for numerical and categorical series in csv_results folder.
+"""
+
 def create_dirs():
     import os
 
@@ -11,7 +15,7 @@ if __name__ == "__main__":
     from src.categorical_utilities import categorical_summary
     from src.numerical_utilities import statistics_summary
 
-    # I got all the information about the data in the Jupyter Notebook,
+    # I got all the information about the data needed for cleaning in the "data_exploration.ipynb" Jupyter Notebook,
     # thus here I don't really analyse it anymore, just process.
 
     # Load the dataset
